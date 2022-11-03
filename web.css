@@ -1,0 +1,16 @@
+.background{
+    background-color: rgb(43, 40, 40);
+}
+
+.mainTable{
+    background-color: rgb(66, 65, 65);
+    margin: 10;
+    width: 100%;
+    align-self: center;
+    align-content: center;
+}
+
+.mainTableCell{
+    border-style: solid;
+    border: 2;
+}
